@@ -1,0 +1,3 @@
+Introduction
+
+BrightTV is at a critical stage of its growth journey, seeking to expand its subscription base and improve customer engagement. As a digital streaming platform, BrightTV’s success relies heavily on understanding its audience’s viewing patterns, preferences, and behaviors. With the rapid rise of competition in the digital media landscape, it has become essential for the company to leverage data-driven insights to guide decision-making. The analysis of viewership data offers an opportunity to uncover trends in user consumption, identify peak and off-peak viewing times, and examine demographic and content preferences. These insights will form the basis for strategies aimed at driving both user engagement and revenue growth
